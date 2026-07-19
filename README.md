@@ -13,6 +13,8 @@
   </p>
 </div>
 
+> **Note:** This is a portfolio case study. Project is closed source, proprietary company work built at Rockville Technologies, so no source code is included here.
+
 ## Overview
 
 Rotana Tunes is a responsive digital entertainment platform that brings music, music videos, short form reels, live content, and karaoke into one unified experience. The product combines adaptive media streaming, persistent global players, personalized content discovery, multilingual UX, account management, subscriptions, and telecom billing in a single Angular application.
