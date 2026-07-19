@@ -37,7 +37,7 @@ My primary responsibility was **frontend engineering across `fst-frontend`**, wi
 - Added deep links, share links, short link routing, and native app URL handling across web, Android, and iOS.
 - Contributed reusable services, shared components, route level lazy loading, strict templates, and responsive layouts for maintainable feature development.
 
-### Backend — Mastercard / IPG
+### Backend: Mastercard / IPG
 
 - Contributed to the NestJS payment integration used for Mastercard and Visa transactions.
 - Implemented client credential authentication and reusable access token caching for the payment gateway.
